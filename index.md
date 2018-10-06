@@ -3,6 +3,11 @@
 Fukan System version numbers are determinted by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
+### 20181006 Minor Updates
+
+- Move the Changelog to https://http://fukansystem.github.io.
+- Various infrastructure updates.
+
 ### 20181003 Minor Updates
 
 - Fix the dataset search form displaying in two lines.
