@@ -5,7 +5,8 @@ Fukan System version numbers are determinted by date, in Japan Standard Time
 
 ### 20181006 Minor Updates
 
-- Move the Changelog to https://http://fukansystem.github.io.
+- Move the Changelog to
+  [https://fukansystem.github.io](https://fukansystem.github.io).
 - Various infrastructure updates.
 
 ### 20181003 Minor Updates
