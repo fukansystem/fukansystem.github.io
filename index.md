@@ -3,11 +3,17 @@
 Fukan System version numbers are determinted by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
-### 20181006 Minor Updates
+### 20181030 Major Updates
 
+- General
+  - Preserve view all option between page transitions.
+- Houga analysis
+  - Improve analysis quality (**Incompatible change**).
+  - Use a static value for the random seed.
+  - Update the Japanese translation.
 - Move the Changelog to
   [https://fukansystem.github.io](https://fukansystem.github.io).
-- Various infrastructure updates.
+- Major infrastructure updates.
 
 ### 20181003 Minor Updates
 
