@@ -1,6 +1,6 @@
 ## Fukan System Release Notes
 
-Fukan System version numbers are determinted by date, in Japan Standard Time
+Fukan System version numbers are determined by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
 ### 20181030 Major Updates
