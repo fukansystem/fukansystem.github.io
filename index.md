@@ -3,6 +3,15 @@
 Fukan System version numbers are determined by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
+### 20181111 Major Updates
+
+- Implement patent family analysis
+- Implement selective subclustering
+- Bugfixes
+  - Fix houga analysis fails when there are facets missing publication year
+  - Fix a bug happens when there are facets missing author names in PubMed data
+- Minor infrastructure updates
+
 ### 20181030 Major Updates
 
 - General
