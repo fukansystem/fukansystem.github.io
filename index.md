@@ -3,6 +3,10 @@
 Fukan System version numbers are determined by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
+### 20190101 Infrastructure Updates
+
+- Various infrastructure updates.
+
 ### 20181111 Major Updates
 
 - Implement patent family analysis
