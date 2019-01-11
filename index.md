@@ -3,6 +3,12 @@
 Fukan System version numbers are determined by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
+### 20190111 Bugfixes
+
+- Bugfixes
+  - Fix a bug that may cause zero division in houga analysis.
+  - Fix a bug that fails to obtain author names from PubMed dataset.
+
 ### 20190101 Infrastructure Updates
 
 - Various infrastructure updates.
