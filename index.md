@@ -3,6 +3,12 @@
 Fukan System version numbers are determined by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
+### 20190118 Various Updates
+
+- New Features
+  - Support Scopus TSV as inputs.
+- Various infrastructure updates.
+
 ### 20190113 Minor Updates
 
 - New Features
