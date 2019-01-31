@@ -3,6 +3,11 @@
 Fukan System version numbers are determined by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
+### 20190131 Minor Updates
+
+- New Features
+  - Support TSV files exported by Microsoft Excel.
+
 ### 20190130 Bugfix and Various Updates
 
 - Bugfix
