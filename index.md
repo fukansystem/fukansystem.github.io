@@ -3,6 +3,13 @@
 Fukan System version numbers are determined by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
+### 20190224 Bugfixes
+
+- Bugfixes
+  - Support `<MedlineDate>` element in PubMed dataset.
+  - Fix visualization.
+  - Support keyword search with all facet types.
+
 ### 20190218.1 Major Updates
 
 - Add Japanese text analysis (Kaken dataset only).
