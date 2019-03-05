@@ -3,15 +3,16 @@
 Fukan System version numbers are determined by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
-### 20190224 Major Updates
+### 20190305 Major Updates (in Canary)
 
 - Add Japanese text analysis (Kaken dataset only).
 - Add Kaken dataset support.
+- Support `<MedlineDate>` element in PubMed dataset.
+- Support keyword search with all facet types.
+- Support sorting facet by keywords tf-idf with new analyses.
 - Bugfixes
   - Fix Scopus TSV to output references correctly.
   - Fix bibliographic couplings with large datasets.
-  - Support `<MedlineDate>` element in PubMed dataset.
-  - Support keyword search with all facet types.
 - Various code cleanup.
 - Various infrastructure updates.
 
