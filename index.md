@@ -3,7 +3,7 @@
 Fukan System version numbers are determined by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
-### 20190306 Major Updates (in Canary)
+### 20190321.2 Major Updates (in Canary)
 
 - Add Japanese text analysis (Kaken dataset only).
 - Add Kaken dataset support.
