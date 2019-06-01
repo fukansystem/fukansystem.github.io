@@ -35,7 +35,8 @@ Fukan System supports the following datasets and fields as of
 
 - `CommentsCorrectionsList`, `ReferenceList`
 - `PMID`
-- `Year`
+- `PubmedArticle`
+- `PubDate`
 - Optional elements
   - `Abstract`
   - `ArticleTitle`
