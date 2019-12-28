@@ -3,7 +3,11 @@
 Fukan System version numbers are determined by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
-### 20190324.1 Major Updates (in Canary)
+### 20191119 Hotfix
+
+- Hotfix for the new web UI.
+
+### 20191118 Major Updates
 
 - Add Japanese text analysis (Kaken dataset only).
 - Add Kaken dataset support.
@@ -14,6 +18,11 @@ Fukan System version numbers are determined by date, in Japan Standard Time
   - Fix Scopus TSV to output references correctly.
   - Fix bibliographic couplings with large datasets.
   - Fix building indices with large datasets.
+  - Fix heatmap and graph tool not to block.
+  - Japanese DWPI abstract columns are not used in keywords.
+  - Japanese columns are not used for patent family.
+  - Improve the implementation of patent family.
+  - Year column is not handled properly in houga analysis.
 - Various code cleanup.
 - Various infrastructure updates.
 
