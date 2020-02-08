@@ -3,6 +3,10 @@
 Fukan System version numbers are determined by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
+### 20200208 Bugfix
+
+- Fix a bug where database migration may fail on restarts.
+
 ### 20191228.1 Infrastructure Update
 
 - Infrastructure update.
