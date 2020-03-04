@@ -3,6 +3,14 @@
 Fukan System version numbers are determined by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
+### 20200303 Security Update
+
+- Fixed some potential security issues from dependencies. Those issues have
+  never been exposed publicly and no security incident has been reported.
+  - [CVE-2019-14751](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-14751)
+  - [CVE-2019-16865](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-16865)
+- Infrastructure updates.
+
 ### 20200208 Bugfix
 
 - Fix a bug where database migration may fail on restarts.
