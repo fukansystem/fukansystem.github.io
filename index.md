@@ -3,6 +3,11 @@
 Fukan System version numbers are determined by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
+### 20200310.1 Infrastructure Update
+
+- Switch from [Gentoo](https://gentoo.org/) to [Alpine](https://alpinelinux.org)-based images.
+- Code health updates.
+
 ### 20200303 Security Update
 
 - Fixed some potential security issues from dependencies. Those issues have
