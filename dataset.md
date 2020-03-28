@@ -80,3 +80,20 @@ Fukan System supports the following datasets and fields as of
   - Cited reference count (`NR`)
   - Publication discipline (Subject category) (`SC`)
   - Times cited (`TC`)
+
+## Web of Science Core Collection raw XML
+
+- Addresses (`addresses`)
+- Names (`names`)
+- Publication information (`pub_info`)
+- References (`references`)
+- Titles (`titles`)
+- Unique identifier (`UID`)
+- Volume (`vol`)
+- Optional
+  - Abstracts (`abstracts`)
+  - Identifiers (`identifiers`)
+  - Keywords (`keywords`)
+  - Languages (`languages`)
+  - Normalized languages (`normalized_languages`)
+  - Subject categories (`subjects`)
