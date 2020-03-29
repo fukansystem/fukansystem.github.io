@@ -3,7 +3,7 @@
 Fukan System version numbers are determined by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
-### 20200328 Major Update
+### 20200328.1 Major Update
 
 - Support Web of Science raw XML datasets.
   - This feature requires a separate permission.
