@@ -3,6 +3,16 @@
 Fukan System version numbers are determined by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
+### 20200331 Minor Update
+
+- Rename Thomson Innovation to Derwent Innovation.
+- Set the timezone of logging to Asia/Tokyo.
+- Add a delete button for Houga analyses.
+- Infrastructure updates.
+- Major dependency updates.
+  - Bump bootstrap version to 3.4.1.
+- Major runtime updates.
+
 ### 20200328.1 Major Update
 
 - Support Web of Science raw XML datasets.
