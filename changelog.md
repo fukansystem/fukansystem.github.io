@@ -3,23 +3,18 @@
 Fukan System version numbers are determined by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
+### 20200705 Bugfixes
+
+- Web of Science Raw XML datasets can now be published.
+- Dependency updates including various security fixes.
+
 ### 20200703 Major Update
 
-- can make dataset public #713 #726
-- Infrastructure Update
-  - Bump certbot version to v1.3.0. #705
-  - Unify separated package.json files. #708
-  - Add devcontainer for VS code. #709
-  - Move proto files to fukanapi package. #710
-  - Reload nginx pods periodically. #717
-  - Fix server.dockerfile. #718
-  - Migrate imageTags to images. #719
-  - Avoid k8s schema validation errors. #720
-  - Update the releasing documentation. #721
-  - Temporarily installs build deps for frontend. #722
-  - Introduce facet_class to SCIE storage classes. #724
-  - Add webpack meta package to devDependencies. #725
-  - update postgres #728
+- Allow publishing datasets visible to anyone.
+- Bugfixes.
+- Infrastructure updates.
+- Dependency updates.
+- Code health updates.
 
 ### 20200331 Minor Update
 
