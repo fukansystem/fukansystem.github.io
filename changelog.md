@@ -3,6 +3,11 @@
 Fukan System version numbers are determined by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
+### 20200705.1 Bugfixes
+
+- Cloudbuild updates.
+- Dependency updates.
+
 ### 20200705 Bugfixes
 
 - Web of Science Raw XML datasets can now be published.
