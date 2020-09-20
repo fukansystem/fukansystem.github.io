@@ -5,7 +5,7 @@ Fukan System version numbers are determined by date, in Japan Standard Time
 
 ### 20200919 Minor Updates
 
-- Fix the empty mission.facet files after subclustering
+- Fix the empty mission.facet files after subclustering.
 
 ### 20200903 Minor Updates
 
