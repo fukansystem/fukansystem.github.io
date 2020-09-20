@@ -3,6 +3,10 @@
 Fukan System version numbers are determined by date, in Japan Standard Time
 (JST), at the time the release is built for the canarying test server.
 
+### 20200919 Minor Updates
+
+- Fix the empty mission.facet files after subclustering
+
 ### 20200903 Minor Updates
 
 - Remove analysis rerun.
